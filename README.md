@@ -1,6 +1,7 @@
 # Video_Capture
 A simple command line tool to save video frames in JPEG format\
-This software is written in C++ using libjpeg and FFmpeg API.
+This software is written in C++ using libjpeg and FFmpeg API.\
+Binaries are [here](https://github.com/SleveDugnutt/Video_Capture/releases/tag/v1.0.0).
 
 # Usage
 The basic usage is like
