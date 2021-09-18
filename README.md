@@ -9,7 +9,7 @@ The basic usage is like
 $cap input.mp4 [OPTIONS] 
 ```
 ## options
-When the input video name is ```input.mp4```, it creates a folder named as ```input_frames``` and save frames into it.\
+When the input video name is ```input.mp4```, it creates a folder named as ```input_frames``` and saves frames into it.\
 If you want to specify the output directory or make a directory with another name and save frames to it, use ```-o OUTPUT_DIRECTORY``` option.
 ```bash
 $cap input.mp4 -o new_folder
